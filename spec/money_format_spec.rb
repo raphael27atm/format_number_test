@@ -1,4 +1,4 @@
-require_relative "../money_format"
+require_relative "../lib/money_format"
 
 
 describe MoneyFormat do
